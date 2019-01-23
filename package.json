@@ -1,0 +1,14 @@
+{
+  "id": "webtodotxt",
+  "name": "WebTodo.txt",
+  "version": "1.0.0",
+  "description": "A self-hosted, web-based GUI to manage a Todo.txt file",
+  "main": "index.js",
+  "author": "Connor Petersen <cmpete@gmail.com>",
+  "license": "MIT",
+  // "repository": "https://github.com/chisaipete/recipe-franz/webtodotxt",
+  "config": {
+    // "serviceURL": "",
+    "hasCustomURL": true,
+  }
+}
